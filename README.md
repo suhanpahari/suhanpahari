@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @suhanpahari
-- 👀 I’m interested in mathematics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me through twitter
+- #👋 Hi, I’m soham pahari
+- #👨‍🏫 I’m interested in mathematics
+- #🌱 I’m currently learning python
 
 <!---
 suhanpahari/suhanpahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
