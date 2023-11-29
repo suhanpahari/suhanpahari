@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Pahari</h1>
 <h3 align="center">👨‍🏫 Data Science Student </h3>
 
-- 🌱 I’m currently learning **Python, HTML, CSS3, JS**
+- 🌱 I’m currently learning **Python, Tableau, HTML, CSS3, JS**
 
 - 📫 How to reach me **paharisuhan17@gmail.com**
 
