@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Pahari</h1>
 <h3 align="center">👨‍🏫 Data Science Student </h3>
 
-- 🌱 I’m currently learning **Language Model, Convo N N, Gen AI**
+- 🌱 I’m currently learning **Language Model, Computer Vision, Gen AI**
 
 - 📫 How to reach me **paharisuhan17@gmail.com**
 
