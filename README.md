@@ -23,7 +23,7 @@
 <p align="left">
   <a href="https://twitter.com/sohampahari" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="45" width="45" /></a>
   <a href="https://kaggle.com/suhanxd" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="Kaggle" height="40" width="40" /></a>
-  <a href="https://instagram.com/sohampahari" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" /></a>
+<!--   <a href="https://instagram.com/sohampahari" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" /></a> -->
 </p>
 
 ---
