@@ -42,7 +42,7 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
   <img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS Code" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="100" height="50"/>
+<!--   <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="100" height="50"/> -->
 </p>
 
 ---
