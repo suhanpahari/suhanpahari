@@ -8,7 +8,7 @@ I am currently a Computer Vision Research Intern at the [CVPR Unit, Indian Stati
 
 Research Intern @ [ISI Calcutta](https://www.isical.ac.in/) (CVPR Unit) · Research Intern & Team Lead @ [NIT Warangal](https://www.nitw.ac.in/) (Dept. of AI)
 
-At NIT Warangal, I led a team of 4 on a drug discovery framework — a custom encoder–decoder trained on 1.13M drug–indication pairs — with results published in the [Journal of Computer Aided-Molecule Design](https://www.springer.com/journal/10822). I was also individually selected for a funded medical image processing project at NITW.
+At NIT Warangal, I led a team of 4 on a drug discovery framework — a custom encoder–decoder trained on 1.13M drug–indication pairs — with results published in the [Journal of Computer Aided-Molecule Design](https://link.springer.com/article/10.1007/s10822-025-00728-8). I was also individually selected for a funded medical image processing project at NITW.
 
 ### Recognition
 
