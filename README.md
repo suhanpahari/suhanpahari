@@ -1,39 +1,22 @@
+### About me
 
-<h1 align="center">Hi 👋, I'm Soham Pahari</h1>
-<h3 align="center">Data Science Student | Interested in AI & ML Research </h3>
+I am a final-year [B.Tech student in Computer Science (Data Science)](https://www.upes.ac.in/) at the University of Petroleum and Energy Studies, graduating in May 2026. My research interests lie at the intersection of **computer vision**, **deep learning**, and **generative modeling** — with a focus on 3D perception, saliency-aware architectures, and multimodal reasoning.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhanpahari&label=Profile%20views&color=0e75b6&style=flat" alt="suhanpahari" />
-</p>
+I am currently a Computer Vision Research Intern at the [CVPR Unit, Indian Statistical Institute (ISI) Calcutta](https://www.isical.ac.in/), under the supervision of Prof. Ujjwal Bhattacharya, working on 4D world model and 3D computer vision.
 
----
+### Research & Experience
 
-### 🌱 Currently Learning:
-- 🧠 **Language Models, Generative AI, Computer Vision**
-- 📈 **Time Series Forecasting & Optimization Algorithms**
-- ⚙️ **Deep Learning Frameworks & Model Deployment**
+Research Intern @ [ISI Calcutta](https://www.isical.ac.in/) (CVPR Unit) · Research Intern & Team Lead @ [NIT Warangal](https://www.nitw.ac.in/) (Dept. of AI)
 
+At NIT Warangal, I led a team of 4 on a drug discovery framework — a custom encoder–decoder trained on 1.13M drug–indication pairs — with results published in the [Journal of Computer Aided-Molecule Design](https://www.springer.com/journal/10822). I was also individually selected for a funded medical image processing project at NITW.
 
-### 🌍 Connect With Me  
+### Recognition
 
-<p align="center">
-  <a href="mailto:paharisuhan17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"/></a>
-  <a href="https://linkedin.com/in/sohampahari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25"/></a>
-  <a href="https://twitter.com/sohampahari" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="30"/></a>
-  
-</p>
-
+- Recipient of the **SHODH research grant** from UPES R&D for the agricultural IoT project *Agirveda*
+- **Winner**, Smart India Hackathon 2025 (University Level) — advancing to the national round
+- **2 Patents published** in Vision-Based IoT Devices (IDs: 202511124760, 202511106511)
+- Scored **99.28 percentile** in Mathematics, CUET 2022
 
 ---
 
-
-
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhanpahari&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanpahari&" alt="suhanpahari" />
-</p>
+[Email](mailto:paharisoham@gmail.com) · [LinkedIn](https://linkedin.com/in/sohampahari) · [Google Scholar](https://scholar.google.com/citations?user=sohampahari) · [GitHub](https://github.com/suhanpahari)
